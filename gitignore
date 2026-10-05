@@ -1,0 +1,43 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Archives (build the skill zip locally, do not commit it)
+*.zip
+
+# Environment and secrets
+.env
+.env.*
+
+# Node / Python tooling (if you add scripts later)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+
+# Unity artifacts (if you add sample projects later)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.pidb
+*.suo
+*.userprefs
